@@ -58,4 +58,4 @@ net.epoch();
 
 <h2>License</h2>
 
-<p>This project is open-source and available under the MIT License.</p>
+<p>This project is open-source.</p>
